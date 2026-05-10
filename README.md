@@ -140,4 +140,7 @@ This dashboard transforms raw data into business intelligence by helping decisio
 ✅ Improve regional strategy
 ✅ Make data-driven growth decisions
 
+https://github.com/nisha150411/FUTURE_DS_01/blob/main/sales%20dashboard%20excel.png
+
+
 
